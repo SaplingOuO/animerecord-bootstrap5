@@ -5,7 +5,7 @@
 
 module.exports = ({
   publicPath: process.env.NODE_ENV === 'production'
-  ? '/AnimeRecord'
+  ? '/AnimeRecord-bootstrap5'
   : '/',
   // publicPath: './',
   // outputDir:'./dist',
